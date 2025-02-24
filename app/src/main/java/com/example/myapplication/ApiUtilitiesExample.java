@@ -8,7 +8,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 //================================================
 public class ApiUtilitiesExample {
     private static Retrofit retrofit=null;
-    public static final String Api="Add your api key here";
+    public static final String Api="Add your api key_here";
 
     public static ApiInterface getApiInterface(){
         if(retrofit==null){
