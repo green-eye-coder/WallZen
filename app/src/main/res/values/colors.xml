@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="search_text">#22223b</color>
+    <color name="search_hint">#263A50</color>
+    <color name="nature">#c7f9cc</color>
+    <color name="sports">#2A605E</color>
+</resources>
